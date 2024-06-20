@@ -1,0 +1,12 @@
+{
+  "name": "tcp-file-uploader-client",
+  "version": "1.0.0",
+  "description": "TCP File Uploader Client",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
